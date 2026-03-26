@@ -1098,7 +1098,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "" ],
 					"patching_rect" : [ 3379.411700248718262, 6502.941052436828613, 47.0, 22.0 ],
-					"text" : "sel 380"
+					"text" : "sel 360"
 				}
 
 			}
@@ -1292,7 +1292,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "" ],
 					"patching_rect" : [ 3472.058757305145264, 6435.293994903564453, 47.0, 22.0 ],
-					"text" : "sel 250"
+					"text" : "sel 220"
 				}
 
 			}
@@ -1304,7 +1304,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "" ],
 					"patching_rect" : [ 3245.588173389434814, 6386.764584064483643, 47.0, 22.0 ],
-					"text" : "sel 350"
+					"text" : "sel 330"
 				}
 
 			}
@@ -1414,7 +1414,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "" ],
 					"patching_rect" : [ 3377.941112041473389, 6142.646941661834717, 47.0, 22.0 ],
-					"text" : "sel 250"
+					"text" : "sel 220"
 				}
 
 			}
@@ -2420,7 +2420,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "" ],
 					"patching_rect" : [ 2488.235246658325195, 6679.411637306213379, 47.0, 22.0 ],
-					"text" : "sel 250"
+					"text" : "sel 220"
 				}
 
 			}
@@ -21407,16 +21407,6 @@
 			"obj-645" : [ "live.dial[7]", "live.dial[4]", 0 ],
 			"obj-705" : [ "mc.live.gain~[1]", "mc.live.gain~", 0 ],
 			"obj-9" : [ "live.dial", "live.dial", 0 ],
-			"parameterbanks" : 			{
-				"0" : 				{
-					"index" : 0,
-					"name" : "",
-					"parameters" : [ "-", "-", "-", "-", "-", "-", "-", "-" ],
-					"buttons" : [ "-", "-", "-", "-", "-", "-", "-", "-" ]
-				}
-
-			}
-,
 			"inherited_shortname" : 1
 		}
 ,
